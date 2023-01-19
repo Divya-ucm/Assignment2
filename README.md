@@ -48,3 +48,5 @@ centimeters in a separate list using:
 Example: L1: [150,155, 145, 148]
 Output: [68.03, 70.3, 65.77, 67.13]
 
+<img width="672" alt="image" src="https://user-images.githubusercontent.com/122486644/213366388-03568dbd-5d2e-4aee-a414-1406bae91c81.png">
+using list for declaring the values and then appending the values then using the for loop an d then list comphersion
