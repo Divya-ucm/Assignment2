@@ -1,6 +1,6 @@
 # Assignment2
 STUDENT INFO: NAME: Divya Pothuru NetworkId:DXP62920
-Video link:
+Video link:https://drive.google.com/file/d/1m8tKXm9jBNZbxl9fazp807mtlsp8uyA-/view?usp=share_link
 
 1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
 fullname function that should return the (full name).
